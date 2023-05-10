@@ -1,8 +1,23 @@
-CloudBreeze Pillow
-Description: Introducing the CloudBreeze Pillow, the ultimate sleeping solution designed to ensure a perfect night's rest. Filled with a blend of temperature-regulating gel memory foam and soft, hypoallergenic fibers, this pillow adapts to your unique sleeping preferences. The breathable, moisture-wicking cover keeps you cool and dry, while the ergonomic shape supports your head and neck, relieving pressure points and promoting proper spinal alignment. Sleep soundly and wake up refreshed with the CloudBreeze Pillow.
+# Cetegra Workspace
+Everything you need at your fingertips. Seamlessly access all data and applications you need for your day-to-day work.
 
-AeroFit JumpMaster
-Description: The AeroFit JumpMaster is a cutting-edge fitness trampoline designed to provide a fun, full-body workout experience. Equipped with advanced shock-absorbing technology, the JumpMaster minimizes joint impact while maximizing bounce. Its sturdy, foldable design ensures easy storage and portability, while the adjustable T-bar handle provides stability for users of all ages and fitness levels. Stay motivated with the built-in fitness tracker and companion app, which syncs your workout data and offers personalized workout recommendations.
+## One collaborative workspace
+Cetegra Workspace allows you to increase productivity by providing an unrivaled user experience, liberating underlying services from silo-based, slow and complex web portals. Efficiency is made optimal thanks to stress-free access to apps and data.
 
-VeggiMatic Food Processor
-Description: The VeggiMatic Food Processor is an innovative kitchen appliance designed to make healthy eating a breeze. With its powerful motor and razor-sharp stainless steel blades, it effortlessly chops, slices, and grates a variety of fruits and vegetables with precision. The adjustable speed settings and multiple attachments allow you to create everything from zoodles and cauliflower rice to perfectly diced salsa ingredients. The compact design and easy-to-clean parts make the VeggiMatic a must-have for any health-conscious home cook.
+# Cetegra Workspace provides
+## Frictionless experience
+Improve efficiency for high-valued employees
+## Collaboration
+Access your data and applications anywhere, from any device
+## Unlimited scale
+Hyperscale performance with the power of public cloud
+## Applications
+Access to any application; Windows, SaaS, on-premise or cloud services
+## Store
+Integrated store to reduce administrative overhead
+## Support
+World-class service support available in Workspace
+## My device
+Manage your Cetegra device directly in the portal
+## Data ingestion engine
+No more advanced FTP solutions. Users can upload data to Cetegra easily

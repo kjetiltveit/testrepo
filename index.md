@@ -3,8 +3,6 @@ Everything you need at your fingertips. Seamlessly access all data and applicati
 
 ## One collaborative workspace
 Cetegra Workspace allows you to increase productivity by providing an unrivaled user experience, liberating underlying services from silo-based, slow and complex web portals. Efficiency is made optimal thanks to stress-free access to apps and data.
-
-# Cetegra Workspace provides
 ## Frictionless experience
 Improve efficiency for high-valued employees
 ## Collaboration
